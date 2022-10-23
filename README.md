@@ -8,17 +8,18 @@ I obtained a Bachelor’s degree from Al Hussein Bin Talal University in compute
 
 *now I'm a full-stack developer based in Jordan after finishing a scholarship in LTUC-Jordan.*
 
-*Bashar have a passion for building digital services stuff. 
-Bashar have a knack for creating products, from planning and designing all the way to solving real-life problems with code. When not working, I love improving my skills and learning new technologies constantly.*
+*Bashar have a passion for building digital services stuff, also have a knack for creating products, from planning and designing all the way to solving real-life problems with code. When not working, I love improving my skills and learning new technologies constantly.*
+
+- 🔭 I’m currently working at Sociumtech by Optimumpartners
 
 [Portfolio](https://bashartaamneh55.vercel.app/)
 
-![]("https://raw.githubusercontent.com/BasharTaamneh/BasharTaamneh/main/bbt.png")
+<img src="https://raw.githubusercontent.com/BasharTaamneh/BasharTaamneh/main/bbt.png" alt="Bashar Taamneh"/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BasharTaamneh53&show_icons=true&theme=dark)
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasharTaamneh53&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasharTaamneh&theme=dark)
 
 <!--
 **BasharTaamneh/BasharTaamneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
