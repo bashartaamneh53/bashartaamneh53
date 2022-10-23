@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://raw.githubusercontent.com/BasharTaamneh/BasharTaamneh/main/bbt.png" alt="Bashar Taamneh"/>
 *I'm Bashar Taamneh,
 I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.*
 
@@ -14,7 +14,6 @@ I obtained a Bachelor’s degree from Al Hussein Bin Talal University in compute
 
 [Portfolio](https://bashartaamneh55.vercel.app/)
 
-<img src="https://raw.githubusercontent.com/BasharTaamneh/BasharTaamneh/main/bbt.png" alt="Bashar Taamneh"/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BasharTaamneh53&show_icons=true&theme=dark)
 <hr/>
