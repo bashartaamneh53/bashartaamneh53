@@ -13,12 +13,12 @@ Bashar have a knack for creating products, from planning and designing all the w
 
 [Portfolio](https://bashartaamneh55.vercel.app/)
 
-![](bbt.png)
+![]("https://raw.githubusercontent.com/BasharTaamneh/BasharTaamneh/main/bbt.png")
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BasharTaamneh&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=BasharTaamneh53&show_icons=true&theme=dark)
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasharTaamneh&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasharTaamneh53&theme=dark)
 
 <!--
 **BasharTaamneh/BasharTaamneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
