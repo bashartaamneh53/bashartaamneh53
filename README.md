@@ -1,14 +1,14 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/BasharTaamneh/BasharTaamneh/main/bbt.png" alt="Bashar Taamneh"/>
-*I'm Bashar Taamneh,
-I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.*
+**I'm Bashar Taamneh** 
+*I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.*
 
 *I gained a programming knowledge by completing a project titled:*
 *Controlling Wheelchairs movement Using Brainwaves signals.*
 
 *now I'm a full-stack developer based in Jordan after finishing a scholarship in LTUC-Jordan.*
 
-*Bashar have a passion for building digital services stuff, also have a knack for creating products, from planning and designing all the way to solving real-life problems with code. When not working, I love improving my skills and learning new technologies constantly.*
+*Bashar have a passion for building digital services stuff, also have a knack for creating products, from planning and designing all the way to solving real-life problems with code. When not working, I love improving my skills and learning new technologies constantly*
 
 - 🔭 I’m currently working at Sociumtech by Optimumpartners
 
