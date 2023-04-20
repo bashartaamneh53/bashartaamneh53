@@ -1,8 +1,6 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/BasharTaamneh/BasharTaamneh/main/bbt.png" alt="Bashar Taamneh"/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=BasharTaamneh)
-
 **I'm Bashar Taamneh** 
 *I obtained a Bachelor’s degree from Al Hussein Bin Talal University in computer engineering.*
 
@@ -14,6 +12,9 @@
 *Bashar have a passion for building digital services stuff, also have a knack for creating products, from planning and designing all the way to solving real-life problems with code. When not working, I love improving my skills and learning new technologies constantly*
 
 - 🔭 I’m currently working at Sociumtech by Optimumpartners
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=bashartaamneh53)
 
 [Portfolio](https://bashartaamneh55.vercel.app/)
 
